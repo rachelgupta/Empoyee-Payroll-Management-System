@@ -1,0 +1,4 @@
+userid,password_hash,role
+1,admin1,$2b$12$VYfb4OwdrezuvqSGNKVzv.pa3p8Xz7g.wbo8bpdSiZ9VqR1NTnsn.
+2,client1,$2b$12$qJBnO5q5jXyYyHb.RmKUzOBJSLl.wWl5fdiQEJoCdenMPO5fu1Ms6
+3,employee1,$2b$12$tKadzSm7tZTMnZhvHE9SeuXkNpSWKs5ZnYd14Z4D43ftv7RkM46p2

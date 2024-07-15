@@ -1,0 +1,17 @@
+[
+    {
+        "userid": 1,
+        "password_hash": "admin1",
+        "role": "$2b$12$VYfb4OwdrezuvqSGNKVzv.pa3p8Xz7g.wbo8bpdSiZ9VqR1NTnsn."
+    },
+    {
+        "userid": 2,
+        "password_hash": "client1",
+        "role": "$2b$12$qJBnO5q5jXyYyHb.RmKUzOBJSLl.wWl5fdiQEJoCdenMPO5fu1Ms6"
+    },
+    {
+        "userid": 3,
+        "password_hash": "employee1",
+        "role": "$2b$12$tKadzSm7tZTMnZhvHE9SeuXkNpSWKs5ZnYd14Z4D43ftv7RkM46p2"
+    }
+]
